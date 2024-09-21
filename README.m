@@ -57,4 +57,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 - PyAutoGUI for simulating mouse clicks.
 - Inspiration from the classic Whack-a-Mole game.
 
+This is gamelink 
+https://www.classicgame.com/game/Whack+a+Mole
 

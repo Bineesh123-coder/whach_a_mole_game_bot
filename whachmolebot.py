@@ -1,3 +1,5 @@
+# https://www.classicgame.com/game/Whack+a+Mole
+
 import cv2
 import pyautogui
 import time
